@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">4ChanClient</string>
+    <string name="dismiss_action">Dismiss</string>
+    <string name="error_unexpected">There was an unexpected error</string>
+    <string name="page">Page:</string>
+</resources>

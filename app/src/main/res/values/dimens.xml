@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="progress_bar_width">80dp</dimen>
+    <dimen name="progress_bar_height">80dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="padding_thread_fragment">16dp</dimen>
+    <dimen name="inner_padding_thread_fragment">8dp</dimen>
+</resources>
